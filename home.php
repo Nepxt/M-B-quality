@@ -1,0 +1,9 @@
+<?php
+include_once("includes/banner.php");
+include_once("includes/welcome.php");
+include_once("includes/services.php");
+include_once("includes/why-choose-us.php");
+include_once("includes/project.php");
+include_once("includes/testimonials.php");
+include_once("includes/free-estimate.php");
+?>
